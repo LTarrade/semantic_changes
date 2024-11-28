@@ -52,3 +52,4 @@ This directory contains the scripts used to retrieve contextual embeddings of ta
 <br><br>Output: The pdf files contain different visualisations as well as a random sample of tweets corresponding to each cluster ([here](https://perso.ens-lyon.fr/louise.tarrade/candidats_semanticShift/html/))
 
 
+The scripts for characterising words, recovering the control group, and generating graphs and statistical tests are quite similar to those used for analysing the diffusion of lexical innovations (https://github.com/LTarrade/network_variables/tree/main ; the dataframe containing the median values for semantic changes is available in . /data/ ; for the characterisation of words, the only difference lies in the fact that it is necessary to separate by meaning - instead of by type of innovation - by aggregating the users of the initial meanings, and to treat the initial meanings in the same way as the control words, in that we are considering the users and not the adopters). 
